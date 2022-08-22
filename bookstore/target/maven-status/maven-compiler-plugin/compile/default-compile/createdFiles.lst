@@ -1,0 +1,4 @@
+com\thanhvp\book\ws\BookWS.class
+com\thanhvp\book\dao\Book.class
+com\thanhvp\book\dao\BookDAO.class
+com\thanhvp\book\util\DBUtil.class
