@@ -9,3 +9,9 @@ function master(){
 
  
 master()
+
+function main(){
+    console.log("hello")
+}
+
+main()
